@@ -1,0 +1,10 @@
+D:\POC\Poplu\Poplu\Poplu\bin\Release\poplu-reminder.xlsx
+D:\POC\Poplu\Poplu\Poplu\bin\Release\Poplu.exe.config
+D:\POC\Poplu\Poplu\Poplu\bin\Release\Poplu.exe
+D:\POC\Poplu\Poplu\Poplu\bin\Release\Poplu.pdb
+D:\POC\Poplu\Poplu\Poplu\obj\Release\Poplu.Properties.Resources.resources
+D:\POC\Poplu\Poplu\Poplu\obj\Release\Poplu.Reminders.resources
+D:\POC\Poplu\Poplu\Poplu\obj\Release\Poplu.csproj.GenerateResource.cache
+D:\POC\Poplu\Poplu\Poplu\obj\Release\Poplu.csproj.CoreCompileInputs.cache
+D:\POC\Poplu\Poplu\Poplu\obj\Release\Poplu.exe
+D:\POC\Poplu\Poplu\Poplu\obj\Release\Poplu.pdb
